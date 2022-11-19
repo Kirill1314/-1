@@ -1,0 +1,41 @@
+main {
+  padding: 10px;
+  background-color: #5da130;
+  
+}
+.post {
+  background-color: #8ccb5e;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  display: flex;
+  
+}
+.post img {
+  margin: 20px;
+  
+}
+ul, li {
+  margin: 0;
+  padding: 0;
+}
+ul {
+  list-style: none;
+  width: 100%;
+}
+a {
+  background: #78a2b7;
+  color: #4682b4;
+  display: block;
+  font: bold 13px sans-serif;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+}
+li {
+  float: left;
+  width: auto;
+}
+li:hover a {
+  background: #77dde7;
+}
